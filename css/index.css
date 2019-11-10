@@ -42,3 +42,19 @@ body{
     font-weight: bold;
     color: #707070;
 }
+
+.link{
+    color: #707070;
+}
+
+.link:hover{
+    color: #92c83e;
+}
+
+.link:active{
+    color: black;
+}
+
+.nav-item{
+    border-top-color: #92c83e;
+}
